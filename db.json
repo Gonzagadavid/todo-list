@@ -1,0 +1,50 @@
+{
+  "tasks": [
+    {
+      "title": "iniciar projeto todo list",
+      "completed": true,
+      "createdAt": 1609889202660,
+      "updatedAt": 1609889320564,
+      "id": 5,
+      "userId": "1"
+    },
+    {
+      "title": "iniciar json-server",
+      "completed": true,
+      "createdAt": 1609889345260,
+      "updatedAt": 1609889348611,
+      "id": 6,
+      "userId": "1"
+    },
+    {
+      "title": "escreve model view e controller",
+      "completed": true,
+      "createdAt": 1609889565201,
+      "updatedAt": 1609889570712,
+      "id": 7,
+      "userId": "1"
+    },
+    {
+      "title": "subir projeto para o github",
+      "completed": false,
+      "createdAt": 1609889619999,
+      "updatedAt": null,
+      "id": 8,
+      "userId": "1"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "david@server.com"
+    },
+    {
+      "id": 2,
+      "email": "thais@server.com"
+    },
+    {
+      "id": 3,
+      "email": "luiz@server.com"
+    }
+  ]
+}
